@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**CyberScript-Gage/CyberScript-Gage** is a ✨ _special_ ✨ repository 
+**ZetiGT's READ ME** is a ✨ _special_ ✨ repository 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on C#
@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: On my discord
   https://discord.gg/YhDRvMyGr4
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am cool
 -->
